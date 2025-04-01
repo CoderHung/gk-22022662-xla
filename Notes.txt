@@ -18,27 +18,8 @@ output: number of an object(in text) or the object given an image of the object
 Counting
 
 report:
-2 problem domains:
-    for finding:
-        used template matching
-    for couting:
-        use deep learning methods
-
-contour detection not working out 
-template matching can generalize but contour detection seems to need manual adjusting
+problem: finding objetcs in pictures given the object image
+solution: multi-scale template matching
+which algorithms work well and why
 colors?
 size and rotation?
-
-deep learning?
-classes?
-
-Problem:
--  Finding or Counting objects in images
-What to do:
--  Choose an image from a given set of images Tập file ảnhLinks to an external site.
--  Implement it (Python)
-Scoring:
--  Method explanation: 50%
--  Implementation: 50% 
-Due: 2 weeks
-Submission: a pdf for report (with link to source code)
