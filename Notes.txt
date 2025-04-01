@@ -1,0 +1,44 @@
+Data:
+    2 colored image data sets with non set size for 2 problem domains:
+        +,counting objects
+        +,finding objects
+Method:
+    Counting:
+        3 methods including a count all objects, count objects with similar features, deep learning/computer vision to count objects of differnt classes
+    Finding objects:
+        
+Testing and Evaluation:
+
+Finding more data of the 2 problem domains
+handle different image sizes
+
+input: image
+output: number of an object(in text) or the object given an image of the object
+
+Counting
+
+report:
+2 problem domains:
+    for finding:
+        used template matching
+    for couting:
+        use deep learning methods
+
+contour detection not working out 
+template matching can generalize but contour detection seems to need manual adjusting
+colors?
+size and rotation?
+
+deep learning?
+classes?
+
+Problem:
+-  Finding or Counting objects in images
+What to do:
+-  Choose an image from a given set of images Tập file ảnhLinks to an external site.
+-  Implement it (Python)
+Scoring:
+-  Method explanation: 50%
+-  Implementation: 50% 
+Due: 2 weeks
+Submission: a pdf for report (with link to source code)
